@@ -1,5 +1,7 @@
 # Code book for Coursera Getting and Cleaning Data course project
 
+Note that this code book is for the `tidy_data.txt` file produced by exectuting `run_analysis.R`. It is not intended to cover the raw data. For information about the raw data, please refer to the `README.txt` file in the original dataset.
+
 #### A numeric code, ranging from 1 to 30, each representing a subject for who activity measurements were recorded
 1.    subject
 
