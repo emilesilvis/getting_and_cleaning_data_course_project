@@ -4,3 +4,5 @@ tidy_data.txt
 .DS_store
 .Rproj.user/*
 getting_and_cleaning_data_course_project.Rproj
+.Rdata
+.Rhistory
