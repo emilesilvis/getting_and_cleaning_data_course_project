@@ -1,0 +1,6 @@
+UCI HAR Dataset.zip
+UCI HAR Dataset/*
+tidy_data.txt
+.DS_store
+.Rproj.user/*
+getting_and_cleaning_data_course_project.Rproj
