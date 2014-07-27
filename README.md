@@ -17,8 +17,8 @@ To this end, the student was expected to create an R program that does the follo
 
 In addition, the student was also required to:
 
-- Create a code book describing the variables and transformations that produced the variables in the tidy date aset.
-- Create a README document describing how everything fits together (this document)
+- Create a code book describing the variables and transformations that produced the variables in the tidy dataset.
+- Create a README document describing how everything fits together (this document).
 
 ## About the raw data
 The raw dataset consists of data collected in a study using the accelerometers of Samsung Galaxy S smartphones. A full description of the study is available [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The raw data is available for download [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). The main components of the raw dataset were (see code_book.MD for more information):
