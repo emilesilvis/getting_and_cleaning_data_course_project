@@ -9,7 +9,7 @@
 #### A label describing the activity
 3.    activity_label
 
-#### The mean across all observations for a particular measurement (e.g. tBodyAcc-mean()-X) of the particular acivity (e.g. WALKING) for the particular subject (e.g. 1). Even though each observation represents a mean, the original measurement's name was used for clarity. For more information about the original measurements, read the README.txt in the UCI HR Dataset (available for download [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip))
+#### The mean across all observations for a particular measurement (e.g. tBodyAcc-mean()-X) of the particular acivity (e.g. WALKING) for the particular subject (e.g. 1). Even though each observation represents a mean, the original measurement's name was used for clarity. For more information about the original measurements, read the README.md in this repo, as well as the README.txt in the UCI HR Dataset (available for download [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip))
 4.    tBodyAcc-mean()-X
 5.    tBodyAcc-mean()-Y
 6.    tBodyAcc-mean()-Z
