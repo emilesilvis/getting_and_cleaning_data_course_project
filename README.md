@@ -52,6 +52,3 @@ To run the test suite, open R, import the `testthat` library with `source(testth
 4. invokes `extract_mean_and_std_variables()` with the result of `merge_data_sets()` as parameter, which extracts all the variables related to mean and standard deviation, and returns the filtered dataset.
 5. invokes `produce_data_with_mean_per_feature_per_activity_per_subject()` with the result of `extract_mean_and_std_variables()` as parameter, which groups all the subjects together, then groups all the activities together, calculates a mean across all variables, and return this dataset.
 6. writes the result of `produce_data_with_mean_per_feature_per_activity_per_subject()` to a text file called `tidy_data.txt`.
-
-## Proof or originality
-This [image](https://dl.dropboxusercontent.com/u/4900458/Coursera%20proof%20of%20originality/Getting%20and%20Cleaning%20Data%20course%20project.png) in my Dropbox account aims to serve as proof of the originality of my work.
